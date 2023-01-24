@@ -1,0 +1,76 @@
+{
+  "chat": [
+    {
+      "name": "John Doe",
+      "avatarurl": "https://i.insider.com/5dcc135ce94e86714253af21?width=1000&format=jpeg&auto=webp",
+      "isonline": true,
+      "typing": false,
+      "lastonline": "RN",
+      "unreadmsgs": 2,
+      "lastmsg": "Hey Bro whats up"
+    },
+    {
+      "name": "Jane Doe",
+      "avatarurl": "https://wme-gep-drupal-hbo-prod.s3.amazonaws.com/content/dam/hbodata/series/girls/character/jessa-johansson-512.jpg?w=160",
+      "isonline": false,
+      "typing": true,
+      "lastonline": "1 min ago",
+      "unreadmsgs": 10,
+      "lastmsg": "Yoooooooooo!"
+    },
+    {
+      "name": "Pro Doe",
+      "avatarurl": "https://www.koimoi.com/wp-content/new-galleries/2022/06/chris-hemsworth-to-appear-as-thor-for-the-final-time-in-thor-love-thunder-heres-what-he-has-to-say-about-it-01.jpg",
+      "isonline": false,
+      "typing": true,
+      "lastonline": "3 hour ago",
+      "unreadmsgs": null,
+      "lastmsg": "This is the CV of the person"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "avatarurl": "https://cdn.britannica.com/92/215392-050-96A4BC1D/Australian-actor-Chris-Hemsworth-2019.jpg",
+      "isonline": false,
+      "typing": false,
+      "lastonline": "1 min ago",
+      "unreadmsgs": null,
+      "lastmsg": "Wanna hangout?"
+    },
+    {
+      "name": "Steve Rogers",
+      "avatarurl": "https://cdn.britannica.com/28/215028-050-94E9EA1E/American-actor-Chris-Evans-2019.jpg",
+      "isonline": false,
+      "typing": false,
+      "lastonline": "3 min ago",
+      "unreadmsgs": null,
+      "lastmsg": "Chill dude!!!"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "avatarurl": "https://cdn.britannica.com/97/219497-050-B1B58B0F/Mark-Ruffalo-2018.jpg",
+      "isonline": true,
+      "typing": false,
+      "lastonline": "RN",
+      "unreadmsgs": null,
+      "lastmsg": "C'mon maaan"
+    },
+    {
+      "name": "Tom Holland",
+      "avatarurl": "https://www.bollywoodhungama.com/wp-content/uploads/2021/04/Tom-Holland-to-serve-as-executive-producer-and-star-in-Apple-TV-anthology-series-The-Crowded-Room-.jpg",
+      "isonline": true,
+      "typing": false,
+      "lastonline": "RN",
+      "unreadmsgs": null,
+      "lastmsg": "yo bro"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "avatarurl": "https://www.biography.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTE4MDAzNDEwNzkxOTI1MjYy/scarlett-johansson-13671719-1-402.jpg",
+      "isonline": true,
+      "typing": false,
+      "lastonline": "RN",
+      "unreadmsgs": null,
+      "lastmsg": "Hey Bro whats up"
+    }
+  ]
+}

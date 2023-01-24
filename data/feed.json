@@ -1,0 +1,34 @@
+{
+  "feed": [
+    {
+      "name": "John Doe",
+      "avatarurl": "https://i.insider.com/5dcc135ce94e86714253af21?width=1000&format=jpeg&auto=webp",
+      "postimg": "https://www.decorilla.com/online-decorating/wp-content/uploads/2018/10/modern-home-interior-design-wood-accent-living-room.jpeg",
+      "posttext": "My new home is so beautiful. I love it! #furniture #home #decor",
+      "posttime": "2 hours ago",
+      "likes": 200,
+      "saved": 100,
+      "share": 50
+    },
+    {
+      "name": "Jane Doe",
+      "avatarurl": "https://wme-gep-drupal-hbo-prod.s3.amazonaws.com/content/dam/hbodata/series/girls/character/jessa-johansson-512.jpg?w=160",
+      "postimg": "http://cdn.home-designing.com/wp-content/uploads/2016/05/modern-wood-interior-ideas.jpg",
+      "posttext": "This is a nice home! #furniture #home #decor",
+      "posttime": "1 hours ago",
+      "likes": 320,
+      "saved": 233,
+      "share": 12
+    },
+    {
+      "name": "Pro Doe",
+      "avatarurl": "https://www.koimoi.com/wp-content/new-galleries/2022/06/chris-hemsworth-to-appear-as-thor-for-the-final-time-in-thor-love-thunder-heres-what-he-has-to-say-about-it-01.jpg",
+      "postimg": "http://cdn.home-designing.com/wp-content/uploads/2017/05/unique-wood-ceiling.jpg",
+      "posttext": "wow just wow! #furniture #home #decor",
+      "posttime": "1 hours ago",
+      "likes": 230,
+      "saved": 803,
+      "share": 190
+    }
+  ]
+}

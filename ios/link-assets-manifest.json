@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/OFL.txt",
+      "sha1": "752a72453648f889243774df3479027c45a4e8b9"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-Bold.ttf",
+      "sha1": "65d200b5d71c1eb13a4adc781bf1736f9023e7d1"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-BoldItalic.ttf",
+      "sha1": "37ac874642792b98fa5cc4265eaecf524958cbf5"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-ExtraBold.ttf",
+      "sha1": "ae3e020c0aa18846f2e00061fadb354e4d4ede1d"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-ExtraBoldItalic.ttf",
+      "sha1": "e7bae9b8bc93199c4e000f1da5869f36af2856a8"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-ExtraLight.ttf",
+      "sha1": "dfc917207ff3f235abe957fc54d02c0c651bb1b3"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-ExtraLightItalic.ttf",
+      "sha1": "5f13537bcfab5dfa67781c9c8542b2d0e2127d0f"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-Italic.ttf",
+      "sha1": "dddce7b58057b032a4057e5406356c3551e2bb4a"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-Light.ttf",
+      "sha1": "bac18663bde6c31b5ebed0350c72a52eaa21364e"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-LightItalic.ttf",
+      "sha1": "9e895c9cb6d2b1fedda4f1d54609e53b5d304824"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-Medium.ttf",
+      "sha1": "d9f2b21bd07ae873b2696ae985cdff528fa1c6ec"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-MediumItalic.ttf",
+      "sha1": "d19834eaebd28ce8c76b70db67fb73496500387f"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-Regular.ttf",
+      "sha1": "535033c2b4eb50644357745f7ebeb5e1381428d9"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-SemiBold.ttf",
+      "sha1": "0de275ba9332fd64d48a9b481866d4f8c37c3d2a"
+    },
+    {
+      "path": "assets/Fonts/PlusJakartaSans-SemiBoldItalic.ttf",
+      "sha1": "6d6617981be2c865547d48510ffdc2bf4785a85c"
+    }
+  ]
+}

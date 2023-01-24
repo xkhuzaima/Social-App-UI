@@ -1,0 +1,13 @@
+-------- Icons --------
+
+npm i react-native-vector-icons
+
+-------- Navigation --------
+
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+-------- SystemNavigation --------
+
+npm i react-native-navigation-bar-color
